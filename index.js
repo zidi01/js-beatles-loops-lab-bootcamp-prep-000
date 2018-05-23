@@ -45,7 +45,7 @@ function johnLennonFacts(facts) {  // passed
 
 
 
-function iLoveTheBeatles(number) {
+function iLoveTheBeatles(number) { // passed
   var arr4 = [];
   do { arr4.push("I love the Beatles!");
     ++number;
